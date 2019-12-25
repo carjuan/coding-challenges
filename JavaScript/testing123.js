@@ -1,7 +1,7 @@
 /**
  *
  * @param {Array} array
- * @returns {Array} subarray with each line prepended by the correct number
+ * @returns {Array} subarray with each line prepended by the correct number, returning the correct line numbers
  */
 function number(array) {
   return array.reduce((array, letter, index) => {

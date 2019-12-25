@@ -1,7 +1,7 @@
 /**
  *
  * @param {string} string
- * @returns {string} string with the last numbers added to one, if no digits are at the end of the string, string with 1 appended
+ * @returns {string} if numbers are appended to the string, returns that number + 1, if not numbers are appended to the string, returns string with 1 appended
  */
 function incrementString_two(string) {
   // match any digits >= 0 at the end of string
