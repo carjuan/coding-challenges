@@ -13,7 +13,7 @@ This is a collection of my solutions to common problems found in [`Leetcode`](ht
 
 - [x] Practice regularly coding challenges
 
-- [ ] Implement and study commonly used algorithms for common problems
+- [x] Implement and study commonly used algorithms for common problems
 
 ---
 
