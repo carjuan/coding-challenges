@@ -1,0 +1,3 @@
+known Agorithms for common problems
+1. Kadane: Maximum sum subarray
+2. KMP: string matching algorithm
