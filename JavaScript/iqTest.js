@@ -1,8 +1,3 @@
-/**
- * Finds a number that is different in evenness, and returns the position of this number
- * @param {String} numbers Numbers to test
- * @return {Number} number The position of the number that differs from the others
- */
 function iqTest(numbers) {
   const numArray = numbers.split(' ');
   const isEven = (num) => num % 2 === 0;
