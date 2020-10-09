@@ -1,5 +1,9 @@
+/**
+ * Returns array that has 1 added to the value represented by the array
+ * @param {Number[]} arr Number in array
+ * @return {Number[]} Array with 1 added to number represented in array
+ */
 function upArray(arr) {
-  // ...
   const isEmpty = !arr.length;
   const isSingleDigit = (num) => num > 9;
   const isSingleArray = (array) => array.some(isSingleDigit);
