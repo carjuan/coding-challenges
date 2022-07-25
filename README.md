@@ -5,7 +5,7 @@
 
 This is a collection of my solutions to common problems found in [`Leetcode`](https://leetcode.com/) and [`Codewars`](https://www.codewars.com/).
 
-> A solution might have one or more implementations
+> A solution might have more than one implementation
 
 ---
 
@@ -13,7 +13,7 @@ This is a collection of my solutions to common problems found in [`Leetcode`](ht
 
 - [x] Practice regularly coding challenges
 
-- [x] Implement and study commonly used algorithms for common problems
+- [x] Implement and study commonly used algorithms
 
 ---
 
